@@ -1,5 +1,7 @@
 # konachan-multi-thread-crawler
 
+## English Version
+
 * A crawler which use beautifulsoup4 to crawl images from website konachan.net under a certain tag. 
 * It uses multi-thread and thus it's fast enough. 
 * The name is very neat and beautiful.
